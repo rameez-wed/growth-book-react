@@ -1336,6 +1336,18 @@
     minimatch "^3.1.2"
     strip-json-comments "^3.1.1"
 
+"@growthbook/growthbook-react@^0.9.1":
+  version "0.9.1"
+  resolved "https://registry.yarnpkg.com/@growthbook/growthbook-react/-/growthbook-react-0.9.1.tgz#a2600cea90307e44d12b7780ec8c64d6418d71f1"
+  integrity sha512-b4yaMkcIeYQ+j5wND+wsGHbeV33QJoG6vQc4r/7qTDKmq3QhAyMNuLvfy/bYQ/nWnh5TmZArzQ6IRUGTWKfOGg==
+  dependencies:
+    "@growthbook/growthbook" "^0.18.1"
+
+"@growthbook/growthbook@^0.18.1":
+  version "0.18.1"
+  resolved "https://registry.yarnpkg.com/@growthbook/growthbook/-/growthbook-0.18.1.tgz#1c8d09b95bd5573f6b06effd144a1e15ddfe6b55"
+  integrity sha512-hNNh515lleAUzTch+ezYYVHBteYTIAF1Xxh6+dLJk+BjbhPXUo6X9qNcryIN1b/IMLVnO1ZfE5zbAzVGEQai2w==
+
 "@humanwhocodes/config-array@^0.9.2":
   version "0.9.5"
   resolved "https://registry.yarnpkg.com/@humanwhocodes/config-array/-/config-array-0.9.5.tgz#2cbaf9a89460da24b5ca6531b8bbfc23e1df50c7"
